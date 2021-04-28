@@ -1,7 +1,7 @@
 # A simple process library in x86 assembly language for study usage
-[![badge](https://img.shields.io/badge/lan-assembly-green)](https://github.com/thejiannan/assembly-learning-library) 
-[![badge](https://img.shields.io/badge/learn-passing-brightgreen)](https://github.com/thejiannan/assembly-learning-library)  
-一个用于学习的x86汇编语言的简单进程库，可以参考
+[![badge](https://img.shields.io/badge/lan-assembly-green)](https://github.com/jiannanya/assembly-learning-library) 
+[![badge](https://img.shields.io/badge/learn-passing-brightgreen)](https://github.com/jiannanya/assembly-learning-library)  
+一个用于学习的x86汇编语言的简单进程库，可以作为简单的参考
 ## platform
 
 + x86 
@@ -36,4 +36,4 @@
 
 ## License
 
-[assembly-learning-library](https://github.com/thejiannan/assembly-learning-library) is released under the GPL3.0 License. See the bundled [LICENSE](./LICENSE) file for details.
+[assembly-learning-library](https://github.com/jiannanya/assembly-learning-library) is released under the GPL3.0 License. See the bundled [LICENSE](./LICENSE) file for details.
